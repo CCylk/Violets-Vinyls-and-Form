@@ -1,0 +1,49 @@
+h1 {
+  /* background-image:url("./img/Records.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; */
+  background: url("./img/Records.jpg");
+  font-weight: bold;
+  font-size: 100px;
+  text-align: center;
+}
+
+body {
+  font-family: "Segoe UI", Verdana, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+#ourselection {
+  text-align: center;
+  background-color: #ef8354;
+  font-size: 25px;
+}
+
+#selling {
+  text-align: center;
+  background-color: #0e7c7b;
+  font-size: 25px;
+}
+
+#live {
+  text-align: center;
+  background-color: #9c538b;
+  font-size: 25px;
+}
+
+span {
+  font-weight: bold;
+}
+
+#vinyls {
+  width: 500px;
+}
+
+a:hover {
+  color: #9c538b;
+}
+
+a {
+  color: #ef8354;
+}
